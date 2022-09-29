@@ -1,3 +1,6 @@
+# Announcement :loudspeaker: 
+
+This repository is transferred from [gdm-SynseneHealth](https://github.com/sensynehealth/lung-ct-covid-pathology-detection) to Huma organisation as part of change in asset ownership 
 
 This repository provides proof of concept code for detecting pathology related to COVID-19 from a Sensyne hackathon. The figure below shows the original CT axial slice, the manually annotated ground truth and the automatic delineation of consolidation and ground glass opacity. 
 
@@ -70,8 +73,3 @@ epochs = 200
 ```
 
 Selecting `train_model =  True` wil train the model from scratch. 
-
-
-
-
-
